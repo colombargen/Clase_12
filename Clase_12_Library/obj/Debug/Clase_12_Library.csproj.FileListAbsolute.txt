@@ -1,0 +1,4 @@
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\bin\Debug\Clase_12.exe
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\obj\x86\Debug\Clase_12.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\obj\x86\Debug\Clase_12.exe
+C:\Users\User\documents\visual studio 2010\Projects\Clase_12\Clase_12\obj\x86\Debug\Clase_12.pdb
